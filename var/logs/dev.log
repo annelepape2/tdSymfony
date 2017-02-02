@@ -16,6 +16,7 @@
 [2017-02-01 12:50:56] request.INFO: Matched route "symfony_cinema_default_list". {"route":"symfony_cinema_default_list","route_parameters":{"_controller":"symfony\\CinemaBundle\\Controller\\DefaultController::listAction","_route":"symfony_cinema_default_list"},"request_uri":"http://127.0.0.1:8000/films","method":"GET"} []
 [2017-02-01 12:50:56] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
 [2017-02-01 12:50:57] doctrine.DEBUG: SELECT t0.id AS id_1, t0.titre AS titre_2, t0.synopsis AS synopsis_3, t0.auteur AS auteur_4, t0.date_de_sortie AS date_de_sortie_5, t0.genre AS genre_6 FROM film t0 [] []
+<<<<<<< HEAD
 [2017-02-01 15:29:50] php.DEBUG: Warning: fsockopen(): unable to connect to 127.0.0.1:8000 (Aucune connexion n’a pu être établie car l’ordinateur cible l’a expressément refusée. ) {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\SilencedErrorContext: {\"severity\":2,\"file\":\"C:\\\\Users\\\\annel\\\\Desktop\\\\TdSymfony\\\\vendor\\\\symfony\\\\symfony\\\\src\\\\Symfony\\\\Bundle\\\\FrameworkBundle\\\\Command\\\\ServerCommand.php\",\"line\":61})"} []
 [2017-02-01 15:30:04] request.INFO: Matched route "symfony_cinema_default_index". {"route":"symfony_cinema_default_index","route_parameters":{"_controller":"symfony\\CinemaBundle\\Controller\\DefaultController::indexAction","_route":"symfony_cinema_default_index"},"request_uri":"http://127.0.0.1:8000/","method":"GET"} []
 [2017-02-01 15:30:04] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
@@ -23,3 +24,9 @@
 [2017-02-01 15:33:06] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
 [2017-02-01 15:36:42] request.INFO: Matched route "symfony_cinema_default_index". {"route":"symfony_cinema_default_index","route_parameters":{"_controller":"symfony\\CinemaBundle\\Controller\\DefaultController::indexAction","_route":"symfony_cinema_default_index"},"request_uri":"http://127.0.0.1:8000/","method":"GET"} []
 [2017-02-01 15:36:42] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
+=======
+[2017-02-02 08:57:09] php.DEBUG: Warning: fsockopen(): unable to connect to 127.0.0.1:8000 (Connection refused) {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\SilencedErrorContext: {\"severity\":2,\"file\":\"/Applications/MAMP/htdocs/symfony/vendor/symfony/symfony/src/Symfony/Bundle/FrameworkBundle/Command/ServerCommand.php\",\"line\":61})"} []
+[2017-02-02 08:57:15] request.INFO: Matched route "symfony_cinema_default_list". {"route":"symfony_cinema_default_list","route_parameters":{"_controller":"symfony\\CinemaBundle\\Controller\\DefaultController::listAction","_route":"symfony_cinema_default_list"},"request_uri":"http://127.0.0.1:8000/films","method":"GET"} []
+[2017-02-02 08:57:15] security.INFO: Populated the TokenStorage with an anonymous Token. [] []
+[2017-02-02 08:57:17] doctrine.DEBUG: SELECT t0.id AS id_1, t0.titre AS titre_2, t0.synopsis AS synopsis_3, t0.auteur AS auteur_4, t0.date_de_sortie AS date_de_sortie_5, t0.genre AS genre_6 FROM film t0 [] []
+>>>>>>> master
