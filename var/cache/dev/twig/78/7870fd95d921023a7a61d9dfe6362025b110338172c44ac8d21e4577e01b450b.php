@@ -7,32 +7,75 @@ class __TwigTemplate_3de1610d4b4495b188c61ff9e701c8b56432233852d89ef77abd58a2a72
     {
         parent::__construct($env);
 
-        $this->parent = false;
-
+        // line 2
+        $this->parent = $this->loadTemplate("symfonyCinemaBundle::layout.html.twig", "symfonyCinemaBundle:Film:show.html.twig", 2);
         $this->blocks = array(
+            'title' => array($this, 'block_title'),
+            'body' => array($this, 'block_body'),
         );
+    }
+
+    protected function doGetParent(array $context)
+    {
+        return "symfonyCinemaBundle::layout.html.twig";
     }
 
     protected function doDisplay(array $context, array $blocks = array())
     {
-        $__internal_dcda960911a221060bdbec65fa8eb97da1474ac4e7d534851396b8f2d36ac7b5 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_dcda960911a221060bdbec65fa8eb97da1474ac4e7d534851396b8f2d36ac7b5->enter($__internal_dcda960911a221060bdbec65fa8eb97da1474ac4e7d534851396b8f2d36ac7b5_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "symfonyCinemaBundle:Film:show.html.twig"));
+        $__internal_2aa59c509939051ebad8e1be072dc78626df3492b1d00feee1bca0428217b43e = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_2aa59c509939051ebad8e1be072dc78626df3492b1d00feee1bca0428217b43e->enter($__internal_2aa59c509939051ebad8e1be072dc78626df3492b1d00feee1bca0428217b43e_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "symfonyCinemaBundle:Film:show.html.twig"));
 
-        $__internal_ef7ce6a2fcbc95961d0190dd85db6bd7a2174c6bfabb49018d6b5227c914cd6f = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_ef7ce6a2fcbc95961d0190dd85db6bd7a2174c6bfabb49018d6b5227c914cd6f->enter($__internal_ef7ce6a2fcbc95961d0190dd85db6bd7a2174c6bfabb49018d6b5227c914cd6f_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "symfonyCinemaBundle:Film:show.html.twig"));
+        $__internal_c9fb9faa84fbd37e6832bf2f53b9734e9f1df3731d6125be1704aad41fec3826 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_c9fb9faa84fbd37e6832bf2f53b9734e9f1df3731d6125be1704aad41fec3826->enter($__internal_c9fb9faa84fbd37e6832bf2f53b9734e9f1df3731d6125be1704aad41fec3826_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "symfonyCinemaBundle:Film:show.html.twig"));
 
-        // line 2
+        $this->parent->display($context, array_merge($this->blocks, $blocks));
+        
+        $__internal_2aa59c509939051ebad8e1be072dc78626df3492b1d00feee1bca0428217b43e->leave($__internal_2aa59c509939051ebad8e1be072dc78626df3492b1d00feee1bca0428217b43e_prof);
+
+        
+        $__internal_c9fb9faa84fbd37e6832bf2f53b9734e9f1df3731d6125be1704aad41fec3826->leave($__internal_c9fb9faa84fbd37e6832bf2f53b9734e9f1df3731d6125be1704aad41fec3826_prof);
+
+    }
+
+    // line 3
+    public function block_title($context, array $blocks = array())
+    {
+        $__internal_2aae5a6b3fc44aa0e12752d6367af3fc9d8c401ef7d706d84d3bf1f2963b7c29 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_2aae5a6b3fc44aa0e12752d6367af3fc9d8c401ef7d706d84d3bf1f2963b7c29->enter($__internal_2aae5a6b3fc44aa0e12752d6367af3fc9d8c401ef7d706d84d3bf1f2963b7c29_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
+
+        $__internal_b15857ebb67e10d1d23d73f0654ec689ff37e76503df92930c86ec05d42927b4 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_b15857ebb67e10d1d23d73f0654ec689ff37e76503df92930c86ec05d42927b4->enter($__internal_b15857ebb67e10d1d23d73f0654ec689ff37e76503df92930c86ec05d42927b4_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "title"));
+
+        echo twig_escape_filter($this->env, $this->getAttribute((isset($context["film"]) ? $context["film"] : $this->getContext($context, "film")), "titre", array()), "html", null, true);
+        
+        $__internal_b15857ebb67e10d1d23d73f0654ec689ff37e76503df92930c86ec05d42927b4->leave($__internal_b15857ebb67e10d1d23d73f0654ec689ff37e76503df92930c86ec05d42927b4_prof);
+
+        
+        $__internal_2aae5a6b3fc44aa0e12752d6367af3fc9d8c401ef7d706d84d3bf1f2963b7c29->leave($__internal_2aae5a6b3fc44aa0e12752d6367af3fc9d8c401ef7d706d84d3bf1f2963b7c29_prof);
+
+    }
+
+    // line 4
+    public function block_body($context, array $blocks = array())
+    {
+        $__internal_da83c0ef791da2a241aa98d8693a4583b5976e1b7e1fd49e32004b514432311b = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_da83c0ef791da2a241aa98d8693a4583b5976e1b7e1fd49e32004b514432311b->enter($__internal_da83c0ef791da2a241aa98d8693a4583b5976e1b7e1fd49e32004b514432311b_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+
+        $__internal_8131a29519baa2be9917b670d3f3054269fc4057aa42c2534031eae825f49360 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_8131a29519baa2be9917b670d3f3054269fc4057aa42c2534031eae825f49360->enter($__internal_8131a29519baa2be9917b670d3f3054269fc4057aa42c2534031eae825f49360_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+
+        // line 5
         echo "<h1>";
         echo twig_escape_filter($this->env, $this->getAttribute((isset($context["film"]) ? $context["film"] : $this->getContext($context, "film")), "titre", array()), "html", null, true);
         echo "</h1>
 
 <span>Réalisé par ";
-        // line 4
+        // line 7
         echo twig_escape_filter($this->env, $this->getAttribute((isset($context["film"]) ? $context["film"] : $this->getContext($context, "film")), "auteur", array()), "html", null, true);
         echo "</span>
 
 <p>";
-        // line 6
+        // line 9
         echo twig_escape_filter($this->env, $this->getAttribute((isset($context["film"]) ? $context["film"] : $this->getContext($context, "film")), "synopsis", array()), "html", null, true);
         echo "</p>
 
@@ -40,14 +83,15 @@ class __TwigTemplate_3de1610d4b4495b188c61ff9e701c8b56432233852d89ef77abd58a2a72
 
 
 <p><a href=\"";
-        // line 11
+        // line 14
         echo $this->env->getExtension('Symfony\Bridge\Twig\Extension\RoutingExtension')->getPath("page_films");
-        echo "\">Retour</a></p>";
+        echo "\">Retour</a></p>
+";
         
-        $__internal_dcda960911a221060bdbec65fa8eb97da1474ac4e7d534851396b8f2d36ac7b5->leave($__internal_dcda960911a221060bdbec65fa8eb97da1474ac4e7d534851396b8f2d36ac7b5_prof);
+        $__internal_8131a29519baa2be9917b670d3f3054269fc4057aa42c2534031eae825f49360->leave($__internal_8131a29519baa2be9917b670d3f3054269fc4057aa42c2534031eae825f49360_prof);
 
         
-        $__internal_ef7ce6a2fcbc95961d0190dd85db6bd7a2174c6bfabb49018d6b5227c914cd6f->leave($__internal_ef7ce6a2fcbc95961d0190dd85db6bd7a2174c6bfabb49018d6b5227c914cd6f_prof);
+        $__internal_da83c0ef791da2a241aa98d8693a4583b5976e1b7e1fd49e32004b514432311b->leave($__internal_da83c0ef791da2a241aa98d8693a4583b5976e1b7e1fd49e32004b514432311b_prof);
 
     }
 
@@ -63,7 +107,7 @@ class __TwigTemplate_3de1610d4b4495b188c61ff9e701c8b56432233852d89ef77abd58a2a72
 
     public function getDebugInfo()
     {
-        return array (  44 => 11,  36 => 6,  31 => 4,  25 => 2,);
+        return array (  87 => 14,  79 => 9,  74 => 7,  68 => 5,  59 => 4,  41 => 3,  11 => 2,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -77,6 +121,9 @@ class __TwigTemplate_3de1610d4b4495b188c61ff9e701c8b56432233852d89ef77abd58a2a72
     public function getSourceContext()
     {
         return new Twig_Source("{# src\\symfony\\CinemaBundle\\Resources\\views\\Film\\show.html.twig #}
+{% extends 'symfonyCinemaBundle::layout.html.twig' %}
+{% block title %}{{ film.titre }}{% endblock %}
+{% block body %}
 <h1>{{ film.titre }}</h1>
 
 <span>Réalisé par {{ film.auteur }}</span>
@@ -86,6 +133,7 @@ class __TwigTemplate_3de1610d4b4495b188c61ff9e701c8b56432233852d89ef77abd58a2a72
 
 
 
-<p><a href=\"{{ path('page_films') }}\">Retour</a></p>", "symfonyCinemaBundle:Film:show.html.twig", "/Applications/MAMP/htdocs/tdSymfony/src/symfony/CinemaBundle/Resources/views/Film/show.html.twig");
+<p><a href=\"{{ path('page_films') }}\">Retour</a></p>
+{% endblock %}", "symfonyCinemaBundle:Film:show.html.twig", "/Applications/MAMP/htdocs/tdSymfony/src/symfony/CinemaBundle/Resources/views/Film/show.html.twig");
     }
 }
