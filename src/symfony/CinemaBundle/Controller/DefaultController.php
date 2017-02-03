@@ -15,11 +15,7 @@ class DefaultController extends Controller
     {
         return $this->render('symfonyCinemaBundle:Default:index.html.twig');
     }
-<<<<<<< HEAD
 
-=======
-//test
->>>>>>> master
     /**
     * @Route("/films")
     */
@@ -43,14 +39,9 @@ class DefaultController extends Controller
     {
         $film = $this->getDoctrine()->getRepository('symfonyCinemaBundle:Film')->find($id);
 
-    return $this->render(
-        'symfonyCinemaBundle:Film:show.html.twig',
-        ['film' => $film]
-    );
-<<<<<<< HEAD
-    
-=======
-
->>>>>>> master
+        return $this->render(
+            'symfonyCinemaBundle:Film:show.html.twig',
+            ['film' => $film]
+        );
     }
 }
