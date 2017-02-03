@@ -5,11 +5,14 @@
         <meta charset="UTF-8">
         <title>{% block title %}symfony Cinema{% endblock %}</title>
         <link rel="stylesheet" href="{{ asset('css/style.css') }}" />
+        <link rel="stylesheet" href="{{ asset('css/bootstrap.css') }}" />
+          <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}" />
     </head>
     <body>
         <ul class="menu">
             <li><a href="{{ path('page_accueil') }}">Accueil</a></li>
-            <li><a href="{{ path('page_films') }}">films</a></li>
+            <li><a href="{{ path('page_films') }}">Cinema</a></li>
+            <li><a href="{{ path('admin_film_liste') }}">Admin</a></li>
         </ul>
 
         <div id="content">
