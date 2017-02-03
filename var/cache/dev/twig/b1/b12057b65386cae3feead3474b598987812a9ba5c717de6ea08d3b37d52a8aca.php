@@ -15,20 +15,20 @@ class __TwigTemplate_672f1f48eb3f211b31f602b1e5a4da47262d5ca3259aeeb9440627cdda0
 
     protected function doDisplay(array $context, array $blocks = array())
     {
-        $__internal_e8d49c759d53391e3351310e35e98ee6fdb2097703892a50e434a50764e3ba6f = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_e8d49c759d53391e3351310e35e98ee6fdb2097703892a50e434a50764e3ba6f->enter($__internal_e8d49c759d53391e3351310e35e98ee6fdb2097703892a50e434a50764e3ba6f_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "symfonyCinemaBundle:Default:index.html.twig"));
+        $__internal_b9020ab7bc2d37dfb29d7225f0e302fc768a6671f2bea2842a6f616969c6f557 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_b9020ab7bc2d37dfb29d7225f0e302fc768a6671f2bea2842a6f616969c6f557->enter($__internal_b9020ab7bc2d37dfb29d7225f0e302fc768a6671f2bea2842a6f616969c6f557_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "symfonyCinemaBundle:Default:index.html.twig"));
 
-        $__internal_798a52071322e281df474e1360486dd2294cb014b16f54fc8ad1aed6717ace00 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_798a52071322e281df474e1360486dd2294cb014b16f54fc8ad1aed6717ace00->enter($__internal_798a52071322e281df474e1360486dd2294cb014b16f54fc8ad1aed6717ace00_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "symfonyCinemaBundle:Default:index.html.twig"));
+        $__internal_ea8cd0b460993b5e5f7553c8f680450e2147d3b0924514633b152484de80935f = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_ea8cd0b460993b5e5f7553c8f680450e2147d3b0924514633b152484de80935f->enter($__internal_ea8cd0b460993b5e5f7553c8f680450e2147d3b0924514633b152484de80935f_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "symfonyCinemaBundle:Default:index.html.twig"));
 
         // line 1
         echo "Hello World!
 ";
         
-        $__internal_e8d49c759d53391e3351310e35e98ee6fdb2097703892a50e434a50764e3ba6f->leave($__internal_e8d49c759d53391e3351310e35e98ee6fdb2097703892a50e434a50764e3ba6f_prof);
+        $__internal_b9020ab7bc2d37dfb29d7225f0e302fc768a6671f2bea2842a6f616969c6f557->leave($__internal_b9020ab7bc2d37dfb29d7225f0e302fc768a6671f2bea2842a6f616969c6f557_prof);
 
         
-        $__internal_798a52071322e281df474e1360486dd2294cb014b16f54fc8ad1aed6717ace00->leave($__internal_798a52071322e281df474e1360486dd2294cb014b16f54fc8ad1aed6717ace00_prof);
+        $__internal_ea8cd0b460993b5e5f7553c8f680450e2147d3b0924514633b152484de80935f->leave($__internal_ea8cd0b460993b5e5f7553c8f680450e2147d3b0924514633b152484de80935f_prof);
 
     }
 
