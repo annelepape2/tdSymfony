@@ -1,3 +1,8 @@
+symfony_admin:
+    resource: "@symfonyAdminBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
 symfony_cinema:
     resource: "@symfonyCinemaBundle/Controller/"
     type:     annotation

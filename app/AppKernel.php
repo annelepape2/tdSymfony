@@ -24,6 +24,7 @@ parent::__construct($environment, $debug);
             new Sensio\Bundle\FrameworkExtraBundle\SensioFrameworkExtraBundle(),
             new AppBundle\AppBundle(),
             new symfony\CinemaBundle\symfonyCinemaBundle(),
+            new symfony\AdminBundle\symfonyAdminBundle(),
         ];
 
         if (in_array($this->getEnvironment(), ['dev', 'test'], true)) {
