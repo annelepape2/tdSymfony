@@ -1,0 +1,16 @@
+
+{# src\symfony\CinemaBundle\Resources\views\auteur\list.html.twig #}
+<h1>{{ titre }}</h1>
+
+<ul class="liste">
+    {% for auteur in auteurs %}
+        <li>
+            <h2><a href="{{ path('page_auteur', {'id': auteur.id}) }}">{{ auteur.nom }}</a></h2>
+            {% if film.auteur == "James Cameron" %}
+                <strong>{{ auteur.nom }}</strong>
+            {% else %}
+                <span>{{ film.date_de_naissance }}</span>
+            {% endif %}
+        </li>
+    {% endfor %}
+</ul>
