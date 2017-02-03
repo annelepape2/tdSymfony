@@ -2,193 +2,85 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970bc8d2-b48a-47f7-bc9a-658e9336a7ce" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/+/I/35M1fq521Q1B0y0plCyp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/-/-/zADPvXQK26Gwur7aPXrA" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/-/S/gWw0LKjtNtSeaFcb7KM9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/0/A/Fcl8UjIjV8WFTJnWPZD0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/0/X/GVXY9jLu4WVNVQDcA+Uo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/2/3/qDueb1sRA5W9kmc52fN5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/5/U/PJoS-k5zYSmVyKShGlm-" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/5/Z/TQ74DwAOSsbErQEaV4AV" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/6/A/ddwauT5t0k97Ra+hOIVj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/6/J/IMkBoYMjdX2Z4ZZv-O52" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/7/T/y7Zx1DD9xkqmm69SHFLY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/8/G/-3HkHvadPOgSng-Q3+Nu" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/8/R/nb2+LxVdNJnPi9ibI8CB" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/A/G/FT+ony8rJq-uN9Neh0qq" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/A/Q/3rEOJYij7xXtwSJ9DqOe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/A/Q/9NlgGkmDjw16Rj9zx+Rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/A/W/pWowK1X+V-+JqrMMX7nx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/B/E/5C-6B0DFIHgXoWJTt6WP" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/B/X/nXzqa-jPj1byh62LZlzb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/D/H/DjmJrPlxNfPeCqzSbL6f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/E/H/eSWnf8V7uSKfroiTvt6-" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/F/I/GRWKH7-g8GCoiD8vjZc6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/G/M/1ez+fzCi-nbBAtghBFVa" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/G/V/6iHRKi9ZkQWJq5vIXT5d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/H/-/YLKkA40R9hGfvE+TypGl" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/H/A/OKwsmiaeWeXU29NcQ7X5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/H/J/y72dIil0Qq-V76cc88g3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/I/5/chIHOx1o6+SLSW7cqiny" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/I/7/iuYaVs5mFQ7rm+bDBTqf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/I/Q/pY6Wrybyt0eb9YKOlz9Q" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/J/E/84yxqyEYtP2w0pIN0VxZ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/J/S/TRv2Eupj1HWY74NqcJ23" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/L/7/RLdc6U4jaBeJrBNEEw34" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/M/F/o0ypjG6G9xe9dFimGO02" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/M/M/LxmN0zdnFMTx3Z4B0i3Z" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/M/O/KMmPf0oyjPp0ydUzUk+5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/M/W/tKwQrMiflSp2FFPjlVsJ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/N/B/24ppJnrroHZEwJYOoIWp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/N/U/cB4mry8l8QmuAvszgaEU" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/O/C/kk2eNsXNvqLNJlgjx8Lp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/O/H/dj8EW8w7V9gbJw-Vdbmc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/O/S/NIom65FTazzK8jbRDIJJ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/P/C/5MHzhnFRZoToIdrEvJaQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/P/K/+RbcU4yohPXhoX4biyUQ" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Q/+/Wfu9sUXtta1rYehCmhSz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Q/P/fd4y243aDeub2s-OPHVW" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Q/W/4Qum0xMOblX1ETi3s5HC" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Q/Z/7CCqf9-1m0v4ILmjQWso" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Q/Z/rKqV4NXshiR99OWe2B3H" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/R/5/DodJ-OgO1Gn4EEOWKAWz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/R/6/BnYFoNNsW8AId5gcvdJ2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/R/9/gO4L-OnOoflaS5r7I6QL" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/R/T/xCcbWBwP0dAIQ4wP4aD-" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/S/8/8gYChizMld3kz4ZlDFzC" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/S/K/8YMYJkU6IbXK99i4aglw" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/S/T/LrMYzS1Y5OuFb+W3w3Sc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/T/B/myyfxRlR2NIk96Abo6Ta" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/U/G/DQV1QUdwGa6OQhLgYGru" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/V/0/DF9PocTYaeajgigi-AXj" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/V/0/QxO2M+KkvHgv1JEB9qNB" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/V/H/YJWVQKhE0QL+CSE-Rb7x" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/V/L/Wne1p1fboFyaoxX3mGlK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/V/W/OJwX-3z+9+63CJPDw+6j" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/V/Y/vX4+wn8QBI4p4tG+ig5C" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/V/Z/y9TCXe5+cfAdmKBWXPpx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/W/H/bWW7vVaXlGuXJosJMBYt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/W/U/QwCLRmv697bX4evd24uV" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/X/F/cEsIu34Rl94xTM38v6Xd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/X/T/b+lBMrqZaWzJniS2Tik0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Y/+/7moJ9g9oSSl2VipherWD" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Y/A/YQY7m+Xuz0SWmmSb1dS0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Y/R/Zd9ahJe2jjzEGEp5rY3N" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Z/A/A7-h4OllWwgBKblf8c-W" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Z/H/8U7g05hGgqN83+BmCA6d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Z/Q/TRv1Ho+LsjbN0oJXW4XM" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Z/W/rdy7uPRgWbOWH9kC65EO" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/00/9d/ec9d00" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/25/9e/a49e25" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/4c/6f/836f4c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/5e/e7/f4e75e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/61/d1/69d161" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/a4/af/b8afa4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/c0/a4/8ea4c0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/ef/43/1a43ef" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/08/083e9ca6bf2e736515c5fbfa503c0b84084f7d76561500d9847b81784622573c.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/09/09a6b9ceb65dbd97ac8cab128eebb8810d74f34ada0c9d91ae219b748fc5dc6d.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/12/12d5dcd26f134cb1fe042270b3501ff6c20bfb9ee94b23f8005cb347e112686c.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/17/17dc7c2692f0d013b81c18a045aeb352c8b627a796ea6597c01f71d39dcaf11d.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/24/24477b1c570eaa1600527538311aaa435687091dd8fea325df5afacb991083b9.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/2b/2b58a8ec7eaa2101bb5df100d9991796a23d88c2bc084612cebef08873b2d7a3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/32/322db9fd0af3db9cc46be707ccbd2d4fe1115cc500172eb512c6789baef8bb25.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/33/3320dae6c57110f2a0c76db56b36def765e20f2bfad7c08f89cdb42f105075ac.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/69/69285d6ffa481ef0136cd19a6c4ae1e2375457c32bd4b834d555221df916e11f.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/6e/6e70cf7937df5c14398bca6091a4742981d03cf4f73a47eff4600f18bd9800a6.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/74/74e127d69f3d6afe6fe3cf8a77a2270ba99f7126ffca969c807537f8c3011f39.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/7b/7b933880d96bf9c71cf7204fdf69e9cba9d4c20fde7a71b496268fb2bd14eb5d.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/8d/8d96343c44908b985ecc29cdad8dd45dbc95f34b1c8254ab9b125082a74d46bf.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/9a/9aa226260bbf1f8a836cfa2a6d1d74400fb30a3419511cc7be62773980ea3a9d.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/a5/a57e5cb7bdab8c6616701e4b432170ef8e3ee6149dd18200b983c9ff92ce9f48.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/ab/ab50ac63398911880537e054c606fff8ba15bc35c5e14444e6a56312b519d803.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/b1/b14d2edc22fe1b21a7a3005b0a49a24c05b3dde33539a28352d9746b73152897.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/b9/b996651903a48f0093a50e7d461b83ce009781408eec58acd9f91e97f93ce053.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/ba/ba81266973bd53750700b717ecc6402791d5cd289f3f9fcd5c84fc4fea9f9abb.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/bb/bb871e582eea82eec8a39cb484271ceb1d4d0f508171e0299695f932e64aef59.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/bb/bbed55a52d6679d51f9b65cc1c55d2c05b123e3d13aeb33d6586e8eb79840cce.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/d1/d1f2d141071bb1566f53439aba3d1b6ec935ab235f50a04c111c6d9677754fc7.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/d3/d30ad1a080eb9edf69a80d0a3c37e55a5e4a28b36a124c50868124c954023d45.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/dc/dc5c95cffe1e37190ef7ca492ead52d69d4792d04f534a503c9770a715dddea9.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/df/df97530a985c3ffa2117359dcc3bdaf72bfc09ec8391384693343b9d6decab8d.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/e5/e50001770c1a6654e8cf4a98dff83906854261582f17c13679b4248d186b38c8.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/ee/eeebca48449997ea0193e037d9f4e85a8482efbe1333096eeb5105afadd2858c.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/f1/f18115a564f6be6b45794810d840fce05b2871fb17c3b57d50d8df0c8b200aae.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/f2/f285e5fa8a221900bf9dce5371f41589f8c9ac5bb5ed592134008de2e30f4535.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/f5/f505e0551242b02666311ea2889ede559a91e81f5724fd15db98c02889cd0fa4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/fb/fb7ebc77853984da1db372656b1637e6aefdb904f6c16b2cb9cee97b272e6594.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/fd/fdf788bb57eb58e0e4c48556bc28f6deae37893a3ab77f5cc7637ec05cd6f773.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/TdSymfony.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/ef/c0/6bc0ef" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/doctrine" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/doctrine-dbal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/doctrine.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/security-checker" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/simple-phpunit" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/ajax.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/close.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/config.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/event.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/exception.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/form.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/forward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/logger.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/memory.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/menu.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/no.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/redirect.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/request.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/router.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/search.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/symfony.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/time.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/translation.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/twig.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/yes.svg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/O/KMmPf0oyjPp0ydUzUk+5" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/O/KMmPf0oyjPp0ydUzUk+5" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/O/C/kk2eNsXNvqLNJlgjx8Lp" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/O/C/kk2eNsXNvqLNJlgjx8Lp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/P/K/+RbcU4yohPXhoX4biyUQ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/P/K/+RbcU4yohPXhoX4biyUQ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/0/DF9PocTYaeajgigi-AXj" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/0/DF9PocTYaeajgigi-AXj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/parameters.yml" afterPath="$PROJECT_DIR$/app/config/parameters.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/symfony_requirements" afterPath="$PROJECT_DIR$/bin/symfony_requirements" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/symfony/CinemaBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/symfony/CinemaBundle/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/Film/list.html.twig" afterPath="$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/Film/list.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/Film/show.html.twig" afterPath="$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/Film/show.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php.meta" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/classes.php" afterPath="$PROJECT_DIR$/var/cache/dev/classes.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/classes.php.meta" afterPath="$PROJECT_DIR$/var/cache/dev/classes.php.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/0/A/Fcl8UjIjV8WFTJnWPZD0" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/0/A/Fcl8UjIjV8WFTJnWPZD0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/0/X/GVXY9jLu4WVNVQDcA+Uo" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/0/X/GVXY9jLu4WVNVQDcA+Uo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/B/E/5C-6B0DFIHgXoWJTt6WP" afterPath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/B/E/5C-6B0DFIHgXoWJTt6WP" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/O/H/dj8EW8w7V9gbJw-Vdbmc" afterPath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/O/H/dj8EW8w7V9gbJw-Vdbmc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Q/P/fd4y243aDeub2s-OPHVW" afterPath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Q/P/fd4y243aDeub2s-OPHVW" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/S/T/LrMYzS1Y5OuFb+W3w3Sc" afterPath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/S/T/LrMYzS1Y5OuFb+W3w3Sc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/2/3/qDueb1sRA5W9kmc52fN5" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/2/3/qDueb1sRA5W9kmc52fN5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/5/U/PJoS-k5zYSmVyKShGlm-" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/5/U/PJoS-k5zYSmVyKShGlm-" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/5/Z/TQ74DwAOSsbErQEaV4AV" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/5/Z/TQ74DwAOSsbErQEaV4AV" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/6/J/IMkBoYMjdX2Z4ZZv-O52" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/6/J/IMkBoYMjdX2Z4ZZv-O52" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/7/T/y7Zx1DD9xkqmm69SHFLY" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/7/T/y7Zx1DD9xkqmm69SHFLY" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/8/R/nb2+LxVdNJnPi9ibI8CB" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/8/R/nb2+LxVdNJnPi9ibI8CB" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/G/FT+ony8rJq-uN9Neh0qq" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/G/FT+ony8rJq-uN9Neh0qq" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/Q/3rEOJYij7xXtwSJ9DqOe" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/Q/3rEOJYij7xXtwSJ9DqOe" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/W/pWowK1X+V-+JqrMMX7nx" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/W/pWowK1X+V-+JqrMMX7nx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/B/E/5C-6B0DFIHgXoWJTt6WP" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/B/E/5C-6B0DFIHgXoWJTt6WP" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/D/H/DjmJrPlxNfPeCqzSbL6f" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/D/H/DjmJrPlxNfPeCqzSbL6f" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/E/H/eSWnf8V7uSKfroiTvt6-" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/E/H/eSWnf8V7uSKfroiTvt6-" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/F/I/GRWKH7-g8GCoiD8vjZc6" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/F/I/GRWKH7-g8GCoiD8vjZc6" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/G/M/1ez+fzCi-nbBAtghBFVa" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/G/M/1ez+fzCi-nbBAtghBFVa" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/G/V/6iHRKi9ZkQWJq5vIXT5d" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/G/V/6iHRKi9ZkQWJq5vIXT5d" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/H/-/YLKkA40R9hGfvE+TypGl" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/H/-/YLKkA40R9hGfvE+TypGl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/H/A/OKwsmiaeWeXU29NcQ7X5" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/H/A/OKwsmiaeWeXU29NcQ7X5" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/H/J/y72dIil0Qq-V76cc88g3" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/H/J/y72dIil0Qq-V76cc88g3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/I/5/chIHOx1o6+SLSW7cqiny" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/I/5/chIHOx1o6+SLSW7cqiny" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/I/7/iuYaVs5mFQ7rm+bDBTqf" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/I/7/iuYaVs5mFQ7rm+bDBTqf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/J/E/84yxqyEYtP2w0pIN0VxZ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/J/E/84yxqyEYtP2w0pIN0VxZ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/J/S/TRv2Eupj1HWY74NqcJ23" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/J/S/TRv2Eupj1HWY74NqcJ23" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/F/o0ypjG6G9xe9dFimGO02" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/F/o0ypjG6G9xe9dFimGO02" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/M/LxmN0zdnFMTx3Z4B0i3Z" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/M/LxmN0zdnFMTx3Z4B0i3Z" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/W/tKwQrMiflSp2FFPjlVsJ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/W/tKwQrMiflSp2FFPjlVsJ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/N/U/cB4mry8l8QmuAvszgaEU" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/N/U/cB4mry8l8QmuAvszgaEU" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/O/H/dj8EW8w7V9gbJw-Vdbmc" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/O/H/dj8EW8w7V9gbJw-Vdbmc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/O/S/NIom65FTazzK8jbRDIJJ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/O/S/NIom65FTazzK8jbRDIJJ" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/+/Wfu9sUXtta1rYehCmhSz" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/+/Wfu9sUXtta1rYehCmhSz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/P/fd4y243aDeub2s-OPHVW" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/P/fd4y243aDeub2s-OPHVW" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/W/4Qum0xMOblX1ETi3s5HC" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/W/4Qum0xMOblX1ETi3s5HC" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/Z/7CCqf9-1m0v4ILmjQWso" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/Z/7CCqf9-1m0v4ILmjQWso" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/Z/rKqV4NXshiR99OWe2B3H" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/Z/rKqV4NXshiR99OWe2B3H" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/R/6/BnYFoNNsW8AId5gcvdJ2" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/R/6/BnYFoNNsW8AId5gcvdJ2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/R/9/gO4L-OnOoflaS5r7I6QL" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/R/9/gO4L-OnOoflaS5r7I6QL" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/R/T/xCcbWBwP0dAIQ4wP4aD-" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/R/T/xCcbWBwP0dAIQ4wP4aD-" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/S/K/8YMYJkU6IbXK99i4aglw" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/S/K/8YMYJkU6IbXK99i4aglw" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/S/T/LrMYzS1Y5OuFb+W3w3Sc" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/S/T/LrMYzS1Y5OuFb+W3w3Sc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/T/B/myyfxRlR2NIk96Abo6Ta" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/T/B/myyfxRlR2NIk96Abo6Ta" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/0/QxO2M+KkvHgv1JEB9qNB" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/0/QxO2M+KkvHgv1JEB9qNB" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/H/YJWVQKhE0QL+CSE-Rb7x" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/H/YJWVQKhE0QL+CSE-Rb7x" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/L/Wne1p1fboFyaoxX3mGlK" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/L/Wne1p1fboFyaoxX3mGlK" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/W/OJwX-3z+9+63CJPDw+6j" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/W/OJwX-3z+9+63CJPDw+6j" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/W/H/bWW7vVaXlGuXJosJMBYt" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/W/H/bWW7vVaXlGuXJosJMBYt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/X/F/cEsIu34Rl94xTM38v6Xd" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/X/F/cEsIu34Rl94xTM38v6Xd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/X/T/b+lBMrqZaWzJniS2Tik0" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/X/T/b+lBMrqZaWzJniS2Tik0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Y/+/7moJ9g9oSSl2VipherWD" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Y/+/7moJ9g9oSSl2VipherWD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Y/A/YQY7m+Xuz0SWmmSb1dS0" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Y/A/YQY7m+Xuz0SWmmSb1dS0" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/A/A7-h4OllWwgBKblf8c-W" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/A/A7-h4OllWwgBKblf8c-W" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/H/8U7g05hGgqN83+BmCA6d" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/H/8U7g05hGgqN83+BmCA6d" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/Q/TRv1Ho+LsjbN0oJXW4XM" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/Q/TRv1Ho+LsjbN0oJXW4XM" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/W/rdy7uPRgWbOWH9kC65EO" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/W/rdy7uPRgWbOWH9kC65EO" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/b1/b12057b65386cae3feead3474b598987812a9ba5c717de6ea08d3b37d52a8aca.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/b1/b12057b65386cae3feead3474b598987812a9ba5c717de6ea08d3b37d52a8aca.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/logs/dev.log" afterPath="$PROJECT_DIR$/var/logs/dev.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/ClassCollectionLoader.php" afterPath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/ClassCollectionLoader.php" />
     </list>
     <ignored path="TdSymfony.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -222,11 +114,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="list.html.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="list.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/Film/list.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/symfony/CinemaBundle/Controller/DefaultController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/Default/index.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/layout.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -251,6 +173,7 @@
         <option value="$PROJECT_DIR$/var/cache/dev/classes.php" />
         <option value="$PROJECT_DIR$/var/logs/dev.log" />
         <option value="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Component/ClassLoader/ClassCollectionLoader.php" />
+        <option value="$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/Film/list.html.twig" />
       </list>
     </option>
   </component>
@@ -320,6 +243,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TdSymfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TdSymfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -343,6 +280,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="CinemaBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TdSymfony" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TdSymfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="symfony" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CinemaBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -407,6 +374,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Default" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -487,12 +458,12 @@
       <option name="presentableId" value="Default" />
       <updated>1485959495280</updated>
       <workItem from="1485959497073" duration="326000" />
-      <workItem from="1486107331235" duration="5662000" />
+      <workItem from="1486107331235" duration="5962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5988000" />
+    <option name="totallyTimeSpent" value="6288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -502,7 +473,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -589,16 +560,6 @@
           <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding>
             <element signature="e#60#120#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/symfony/CinemaBundle/Controller/DefaultController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
-          <folding>
-            <element signature="e#112#169#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -789,8 +750,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/Film/list.html.twig">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/symfony/CinemaBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/Default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding />
         </state>
       </provider>
