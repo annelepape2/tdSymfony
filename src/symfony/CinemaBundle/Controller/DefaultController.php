@@ -5,19 +5,21 @@ namespace symfony\CinemaBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
+use Symfony\Component\HttpFoundation\Request;
+use Symfony\Component\HttpFoundation\Response;
 
 class DefaultController extends Controller
 {
     /**
-    * @Route("/")
+    * @Route("/", name="page_accueil")
     */
     public function indexAction()
     {
         return $this->render('symfonyCinemaBundle:Default:index.html.twig');
     }
-//test
+
     /**
-    * @Route("/films")
+    * @Route("/films", name="page_films")
     */
     public function listAction()
     {
@@ -33,7 +35,7 @@ class DefaultController extends Controller
     }
 
     /**
-    * @Route("/film/{id}", requirements={"id": "\d+"})
+    * @Route("/film/{id}", requirements={"id": "\d+"}, name="page_film")
     */
     public function showAction($id)
     {

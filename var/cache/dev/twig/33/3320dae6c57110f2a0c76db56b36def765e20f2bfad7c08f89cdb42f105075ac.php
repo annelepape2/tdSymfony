@@ -15,46 +15,64 @@ class __TwigTemplate_26c393fdf6c33d117af11d3859e824b818742f8083456aa3a6e85d6e740
 
     protected function doDisplay(array $context, array $blocks = array())
     {
-        $__internal_801525114405945e745965f59566d0e9fff3ab4c7c8932ea5abf86e5908154fd = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_801525114405945e745965f59566d0e9fff3ab4c7c8932ea5abf86e5908154fd->enter($__internal_801525114405945e745965f59566d0e9fff3ab4c7c8932ea5abf86e5908154fd_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "symfonyCinemaBundle:Film:list.html.twig"));
+        $__internal_f00dfd76f3854fcf2a7f941a4a4298323afc06b155c12b44b26488ad5408f3ca = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_f00dfd76f3854fcf2a7f941a4a4298323afc06b155c12b44b26488ad5408f3ca->enter($__internal_f00dfd76f3854fcf2a7f941a4a4298323afc06b155c12b44b26488ad5408f3ca_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "symfonyCinemaBundle:Film:list.html.twig"));
 
-        $__internal_bf34a52d029c9ccb887f8533c60fe8992610aba9a586f1b7caf1e5e90a77d4d2 = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_bf34a52d029c9ccb887f8533c60fe8992610aba9a586f1b7caf1e5e90a77d4d2->enter($__internal_bf34a52d029c9ccb887f8533c60fe8992610aba9a586f1b7caf1e5e90a77d4d2_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "symfonyCinemaBundle:Film:list.html.twig"));
+        $__internal_b96e687270ce552eb8c66a946149db8308fe168ab0a22a8a38d812465916c03d = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_b96e687270ce552eb8c66a946149db8308fe168ab0a22a8a38d812465916c03d->enter($__internal_b96e687270ce552eb8c66a946149db8308fe168ab0a22a8a38d812465916c03d_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "symfonyCinemaBundle:Film:list.html.twig"));
 
-        // line 2
+        // line 1
+        echo "
+";
+        // line 3
         echo "<h1>";
         echo twig_escape_filter($this->env, (isset($context["titre"]) ? $context["titre"] : $this->getContext($context, "titre")), "html", null, true);
         echo "</h1>
 
 <ul class=\"liste\">
     ";
-        // line 5
+        // line 6
         $context['_parent'] = $context;
         $context['_seq'] = twig_ensure_traversable((isset($context["films"]) ? $context["films"] : $this->getContext($context, "films")));
         foreach ($context['_seq'] as $context["_key"] => $context["film"]) {
-            // line 6
-            echo "        <li>
-            <h2>";
             // line 7
-            echo twig_escape_filter($this->env, $this->getAttribute($context["film"], "titre", array()), "html", null, true);
-            echo "</h2>
-            <span>";
+            echo "        <li>
+            <h2><a href=\"";
             // line 8
-            echo twig_escape_filter($this->env, $this->getAttribute($context["film"], "auteur", array()), "html", null, true);
-            echo "</span>
-        </li>
+            echo twig_escape_filter($this->env, $this->env->getExtension('Symfony\Bridge\Twig\Extension\RoutingExtension')->getPath("page_film", array("id" => $this->getAttribute($context["film"], "id", array()))), "html", null, true);
+            echo "\">";
+            echo twig_escape_filter($this->env, $this->getAttribute($context["film"], "titre", array()), "html", null, true);
+            echo "</a></h2>
+            ";
+            // line 9
+            if (($this->getAttribute($context["film"], "auteur", array()) == "James Cameron")) {
+                // line 10
+                echo "                <strong>";
+                echo twig_escape_filter($this->env, $this->getAttribute($context["film"], "auteur", array()), "html", null, true);
+                echo "</strong>
+            ";
+            } else {
+                // line 12
+                echo "                <span>";
+                echo twig_escape_filter($this->env, $this->getAttribute($context["film"], "auteur", array()), "html", null, true);
+                echo "</span>
+            ";
+            }
+            // line 14
+            echo "        </li>
     ";
         }
         $_parent = $context['_parent'];
         unset($context['_seq'], $context['_iterated'], $context['_key'], $context['film'], $context['_parent'], $context['loop']);
         $context = array_intersect_key($context, $_parent) + $_parent;
-        // line 11
-        echo "</ul>";
+        // line 16
+        echo "</ul>
+";
         
-        $__internal_801525114405945e745965f59566d0e9fff3ab4c7c8932ea5abf86e5908154fd->leave($__internal_801525114405945e745965f59566d0e9fff3ab4c7c8932ea5abf86e5908154fd_prof);
+        $__internal_f00dfd76f3854fcf2a7f941a4a4298323afc06b155c12b44b26488ad5408f3ca->leave($__internal_f00dfd76f3854fcf2a7f941a4a4298323afc06b155c12b44b26488ad5408f3ca_prof);
 
         
-        $__internal_bf34a52d029c9ccb887f8533c60fe8992610aba9a586f1b7caf1e5e90a77d4d2->leave($__internal_bf34a52d029c9ccb887f8533c60fe8992610aba9a586f1b7caf1e5e90a77d4d2_prof);
+        $__internal_b96e687270ce552eb8c66a946149db8308fe168ab0a22a8a38d812465916c03d->leave($__internal_b96e687270ce552eb8c66a946149db8308fe168ab0a22a8a38d812465916c03d_prof);
 
     }
 
@@ -70,7 +88,7 @@ class __TwigTemplate_26c393fdf6c33d117af11d3859e824b818742f8083456aa3a6e85d6e740
 
     public function getDebugInfo()
     {
-        return array (  52 => 11,  43 => 8,  39 => 7,  36 => 6,  32 => 5,  25 => 2,);
+        return array (  69 => 16,  62 => 14,  56 => 12,  50 => 10,  48 => 9,  42 => 8,  39 => 7,  35 => 6,  28 => 3,  25 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -83,16 +101,22 @@ class __TwigTemplate_26c393fdf6c33d117af11d3859e824b818742f8083456aa3a6e85d6e740
 
     public function getSourceContext()
     {
-        return new Twig_Source("{# src\\symfony\\CinemaBundle\\Resources\\views\\Film\\list.html.twig #}
+        return new Twig_Source("
+{# src\\symfony\\CinemaBundle\\Resources\\views\\Film\\list.html.twig #}
 <h1>{{ titre }}</h1>
 
 <ul class=\"liste\">
     {% for film in films %}
         <li>
-            <h2>{{ film.titre }}</h2>
-            <span>{{ film.auteur }}</span>
+            <h2><a href=\"{{ path('page_film', {'id': film.id}) }}\">{{ film.titre }}</a></h2>
+            {% if film.auteur == \"James Cameron\" %}
+                <strong>{{ film.auteur }}</strong>
+            {% else %}
+                <span>{{ film.auteur }}</span>
+            {% endif %}
         </li>
     {% endfor %}
-</ul>", "symfonyCinemaBundle:Film:list.html.twig", "/Applications/MAMP/htdocs/symfony/src/symfony/CinemaBundle/Resources/views/Film/list.html.twig");
+</ul>
+", "symfonyCinemaBundle:Film:list.html.twig", "/Applications/MAMP/htdocs/tdSymfony/src/symfony/CinemaBundle/Resources/views/Film/list.html.twig");
     }
 }
