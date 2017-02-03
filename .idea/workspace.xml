@@ -2,84 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970bc8d2-b48a-47f7-bc9a-658e9336a7ce" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/TdSymfony.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/ef/c0/6bc0ef" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/doctrine" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/doctrine-dbal" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/doctrine.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/security-checker" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/bin/simple-phpunit" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/ajax.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/close.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/config.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/event.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/exception.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/form.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/forward.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/logger.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/memory.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/menu.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/no.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/redirect.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/request.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/router.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/search.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/symfony.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/time.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/translation.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/twig.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/vendor/symfony/symfony/src/Symfony/Bundle/WebProfilerBundle/Resources/views/Icon/yes.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/30/02/5b0230" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/a4/74/f074a4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/da/a0/1fa0da" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/e6/ac/d5ace6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/var/cache/dev/twig/b1/b12057b65386cae3feead3474b598987812a9ba5c717de6ea08d3b37d52a8aca.php" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/O/KMmPf0oyjPp0ydUzUk+5" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/O/KMmPf0oyjPp0ydUzUk+5" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/O/C/kk2eNsXNvqLNJlgjx8Lp" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/O/C/kk2eNsXNvqLNJlgjx8Lp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/P/K/+RbcU4yohPXhoX4biyUQ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/P/K/+RbcU4yohPXhoX4biyUQ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/0/DF9PocTYaeajgigi-AXj" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/0/DF9PocTYaeajgigi-AXj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/parameters.yml" afterPath="$PROJECT_DIR$/app/config/parameters.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/symfony/CinemaBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/symfony/CinemaBundle/Controller/DefaultController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/Film/list.html.twig" afterPath="$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/Film/list.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/Film/show.html.twig" afterPath="$PROJECT_DIR$/src/symfony/CinemaBundle/Resources/views/Film/show.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlGenerator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php" afterPath="$PROJECT_DIR$/var/cache/dev/appDevDebugProjectContainerUrlMatcher.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/classes.php" afterPath="$PROJECT_DIR$/var/cache/dev/classes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/classes.php.meta" afterPath="$PROJECT_DIR$/var/cache/dev/classes.php.meta" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/B/E/5C-6B0DFIHgXoWJTt6WP" afterPath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/B/E/5C-6B0DFIHgXoWJTt6WP" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/O/H/dj8EW8w7V9gbJw-Vdbmc" afterPath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/O/H/dj8EW8w7V9gbJw-Vdbmc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Q/P/fd4y243aDeub2s-OPHVW" afterPath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/Q/P/fd4y243aDeub2s-OPHVW" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/S/T/LrMYzS1Y5OuFb+W3w3Sc" afterPath="$PROJECT_DIR$/var/cache/dev/pools/BhqCl2tRZX/S/T/LrMYzS1Y5OuFb+W3w3Sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/+/I/35M1fq521Q1B0y0plCyp" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/+/I/35M1fq521Q1B0y0plCyp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/-/-/zADPvXQK26Gwur7aPXrA" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/-/-/zADPvXQK26Gwur7aPXrA" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/0/A/Fcl8UjIjV8WFTJnWPZD0" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/0/A/Fcl8UjIjV8WFTJnWPZD0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/0/X/GVXY9jLu4WVNVQDcA+Uo" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/0/X/GVXY9jLu4WVNVQDcA+Uo" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/2/3/qDueb1sRA5W9kmc52fN5" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/2/3/qDueb1sRA5W9kmc52fN5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/5/U/PJoS-k5zYSmVyKShGlm-" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/5/U/PJoS-k5zYSmVyKShGlm-" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/5/Z/TQ74DwAOSsbErQEaV4AV" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/5/Z/TQ74DwAOSsbErQEaV4AV" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/6/A/ddwauT5t0k97Ra+hOIVj" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/6/A/ddwauT5t0k97Ra+hOIVj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/6/J/IMkBoYMjdX2Z4ZZv-O52" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/6/J/IMkBoYMjdX2Z4ZZv-O52" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/7/T/y7Zx1DD9xkqmm69SHFLY" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/7/T/y7Zx1DD9xkqmm69SHFLY" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/8/G/-3HkHvadPOgSng-Q3+Nu" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/8/G/-3HkHvadPOgSng-Q3+Nu" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/8/R/nb2+LxVdNJnPi9ibI8CB" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/8/R/nb2+LxVdNJnPi9ibI8CB" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/G/FT+ony8rJq-uN9Neh0qq" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/G/FT+ony8rJq-uN9Neh0qq" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/Q/3rEOJYij7xXtwSJ9DqOe" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/Q/3rEOJYij7xXtwSJ9DqOe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/Q/9NlgGkmDjw16Rj9zx+Rb" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/Q/9NlgGkmDjw16Rj9zx+Rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/W/pWowK1X+V-+JqrMMX7nx" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/A/W/pWowK1X+V-+JqrMMX7nx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/B/E/5C-6B0DFIHgXoWJTt6WP" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/B/E/5C-6B0DFIHgXoWJTt6WP" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/B/X/nXzqa-jPj1byh62LZlzb" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/B/X/nXzqa-jPj1byh62LZlzb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/D/H/DjmJrPlxNfPeCqzSbL6f" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/D/H/DjmJrPlxNfPeCqzSbL6f" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/E/H/eSWnf8V7uSKfroiTvt6-" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/E/H/eSWnf8V7uSKfroiTvt6-" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/F/I/GRWKH7-g8GCoiD8vjZc6" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/F/I/GRWKH7-g8GCoiD8vjZc6" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/G/M/1ez+fzCi-nbBAtghBFVa" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/G/M/1ez+fzCi-nbBAtghBFVa" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/G/V/6iHRKi9ZkQWJq5vIXT5d" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/G/V/6iHRKi9ZkQWJq5vIXT5d" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/H/-/YLKkA40R9hGfvE+TypGl" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/H/-/YLKkA40R9hGfvE+TypGl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/H/A/OKwsmiaeWeXU29NcQ7X5" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/H/A/OKwsmiaeWeXU29NcQ7X5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/H/J/y72dIil0Qq-V76cc88g3" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/H/J/y72dIil0Qq-V76cc88g3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/I/5/chIHOx1o6+SLSW7cqiny" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/I/5/chIHOx1o6+SLSW7cqiny" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/I/7/iuYaVs5mFQ7rm+bDBTqf" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/I/7/iuYaVs5mFQ7rm+bDBTqf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/I/Q/pY6Wrybyt0eb9YKOlz9Q" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/I/Q/pY6Wrybyt0eb9YKOlz9Q" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/J/E/84yxqyEYtP2w0pIN0VxZ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/J/E/84yxqyEYtP2w0pIN0VxZ" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/J/S/TRv2Eupj1HWY74NqcJ23" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/J/S/TRv2Eupj1HWY74NqcJ23" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/F/o0ypjG6G9xe9dFimGO02" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/F/o0ypjG6G9xe9dFimGO02" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/M/LxmN0zdnFMTx3Z4B0i3Z" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/M/LxmN0zdnFMTx3Z4B0i3Z" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/W/tKwQrMiflSp2FFPjlVsJ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/M/W/tKwQrMiflSp2FFPjlVsJ" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/N/B/24ppJnrroHZEwJYOoIWp" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/N/B/24ppJnrroHZEwJYOoIWp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/N/U/cB4mry8l8QmuAvszgaEU" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/N/U/cB4mry8l8QmuAvszgaEU" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/O/H/dj8EW8w7V9gbJw-Vdbmc" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/O/H/dj8EW8w7V9gbJw-Vdbmc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/O/S/NIom65FTazzK8jbRDIJJ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/O/S/NIom65FTazzK8jbRDIJJ" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/P/C/5MHzhnFRZoToIdrEvJaQ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/P/C/5MHzhnFRZoToIdrEvJaQ" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/+/Wfu9sUXtta1rYehCmhSz" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/+/Wfu9sUXtta1rYehCmhSz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/P/fd4y243aDeub2s-OPHVW" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/P/fd4y243aDeub2s-OPHVW" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/W/4Qum0xMOblX1ETi3s5HC" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/W/4Qum0xMOblX1ETi3s5HC" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/Z/7CCqf9-1m0v4ILmjQWso" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/Z/7CCqf9-1m0v4ILmjQWso" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/Z/rKqV4NXshiR99OWe2B3H" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Q/Z/rKqV4NXshiR99OWe2B3H" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/R/6/BnYFoNNsW8AId5gcvdJ2" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/R/6/BnYFoNNsW8AId5gcvdJ2" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/R/9/gO4L-OnOoflaS5r7I6QL" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/R/9/gO4L-OnOoflaS5r7I6QL" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/R/T/xCcbWBwP0dAIQ4wP4aD-" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/R/T/xCcbWBwP0dAIQ4wP4aD-" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/S/8/8gYChizMld3kz4ZlDFzC" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/S/8/8gYChizMld3kz4ZlDFzC" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/S/K/8YMYJkU6IbXK99i4aglw" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/S/K/8YMYJkU6IbXK99i4aglw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/S/T/LrMYzS1Y5OuFb+W3w3Sc" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/S/T/LrMYzS1Y5OuFb+W3w3Sc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/T/B/myyfxRlR2NIk96Abo6Ta" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/T/B/myyfxRlR2NIk96Abo6Ta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/U/G/DQV1QUdwGa6OQhLgYGru" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/U/G/DQV1QUdwGa6OQhLgYGru" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/0/QxO2M+KkvHgv1JEB9qNB" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/0/QxO2M+KkvHgv1JEB9qNB" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/H/YJWVQKhE0QL+CSE-Rb7x" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/H/YJWVQKhE0QL+CSE-Rb7x" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/L/Wne1p1fboFyaoxX3mGlK" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/L/Wne1p1fboFyaoxX3mGlK" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/W/OJwX-3z+9+63CJPDw+6j" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/W/OJwX-3z+9+63CJPDw+6j" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/Z/y9TCXe5+cfAdmKBWXPpx" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/V/Z/y9TCXe5+cfAdmKBWXPpx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/W/H/bWW7vVaXlGuXJosJMBYt" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/W/H/bWW7vVaXlGuXJosJMBYt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/W/U/QwCLRmv697bX4evd24uV" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/W/U/QwCLRmv697bX4evd24uV" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/X/F/cEsIu34Rl94xTM38v6Xd" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/X/F/cEsIu34Rl94xTM38v6Xd" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/X/T/b+lBMrqZaWzJniS2Tik0" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/X/T/b+lBMrqZaWzJniS2Tik0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Y/+/7moJ9g9oSSl2VipherWD" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Y/+/7moJ9g9oSSl2VipherWD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Y/A/YQY7m+Xuz0SWmmSb1dS0" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Y/A/YQY7m+Xuz0SWmmSb1dS0" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Y/R/Zd9ahJe2jjzEGEp5rY3N" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Y/R/Zd9ahJe2jjzEGEp5rY3N" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/A/A7-h4OllWwgBKblf8c-W" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/A/A7-h4OllWwgBKblf8c-W" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/H/8U7g05hGgqN83+BmCA6d" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/H/8U7g05hGgqN83+BmCA6d" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/Q/TRv1Ho+LsjbN0oJXW4XM" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/Q/TRv1Ho+LsjbN0oJXW4XM" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/W/rdy7uPRgWbOWH9kC65EO" afterPath="$PROJECT_DIR$/var/cache/dev/pools/ifH5qwf3zl/Z/W/rdy7uPRgWbOWH9kC65EO" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/b1/b12057b65386cae3feead3474b598987812a9ba5c717de6ea08d3b37d52a8aca.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/b1/b12057b65386cae3feead3474b598987812a9ba5c717de6ea08d3b37d52a8aca.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/57/576f00971fd9d98d1898ac3758a01f5e02251b39764868c5871b7cc00f1ddda5.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/57/576f00971fd9d98d1898ac3758a01f5e02251b39764868c5871b7cc00f1ddda5.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/logs/dev.log" afterPath="$PROJECT_DIR$/var/logs/dev.log" />
     </list>
     <ignored path="TdSymfony.iws" />
@@ -458,15 +462,15 @@
       <option name="presentableId" value="Default" />
       <updated>1485959495280</updated>
       <workItem from="1485959497073" duration="326000" />
-      <workItem from="1486107331235" duration="5962000" />
+      <workItem from="1486107331235" duration="6376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6288000" />
+    <option name="totallyTimeSpent" value="6702000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31844804" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
