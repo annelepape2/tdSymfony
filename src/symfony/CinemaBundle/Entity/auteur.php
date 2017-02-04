@@ -28,16 +28,18 @@ class auteur
      */
     private $nom;
 
+
+    /**
+     * @ORM\OneToMany(targetEntity="film", mappedBy="auteur")
+     */
+
+    private $films;
+
     /**
      * @var string
      *
      * @ORM\Column(name="prenom", type="string", length=255)
      */
-
-    /**
-     * @ORM\OneToMany(targetEntity="film", mappedBy="auteur")
-     */
-    private $films;
 
     private $prenom;
 
@@ -48,6 +50,10 @@ class auteur
      */
     private $dateDeNaissance;
 
+    /**
+     * @ORM\ManyToOne(targetEntity="auteur", inversedBy="films")
+     */
+    private $auteur;
 
     /**
      * Get id

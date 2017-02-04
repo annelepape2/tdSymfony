@@ -127,6 +127,11 @@ class appDevDebugProjectContainerUrlMatcher extends Symfony\Bundle\FrameworkBund
 
         }
 
+        // page_auteur
+        if (0 === strpos($pathinfo, '/auteur') && preg_match('#^/auteur/(?P<id>\\d+)$#s', $pathinfo, $matches)) {
+            return $this->mergeDefaults(array_replace($matches, array('_route' => 'page_auteur')), array (  '_controller' => 'symfony\\CinemaBundle\\Controller\\DefaultController2::showAction',));
+        }
+
         // homepage
         if (rtrim($pathinfo, '/') === '') {
             if (substr($pathinfo, -1) !== '/') {
